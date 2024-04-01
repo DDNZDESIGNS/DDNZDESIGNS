@@ -1,6 +1,6 @@
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-    background-image: url(ideabeans.gif);
+    background-image: url(beans.png);
 }
 
 .ds4.white.disconnected {
@@ -8,7 +8,7 @@
 }
 
 .ds4.white .trigger {
-    background-image: url(beanstriggers.png);
+    background-image: url(pressedtrigger.png);
 }
 
 .ds4.white .bumper {
@@ -24,15 +24,15 @@
 }
 
 .ds4.white .button {
-    background-image: url(beansface.png);
+    background-image: url(fusionface.png);
 }
 
 .ds4.white .stick {
-    background-image: url(beanssticks.png);
+    background-image: url(fusionsticks.png);
 }
 
 .ds4.white .face {
-    background-image: url(beanspads.png);
+    background-image: url(fusionspads.png);
 }
 
 /*END PS4 White Controller Styling*/
