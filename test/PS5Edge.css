@@ -212,6 +212,7 @@
 
 .custom .face.right.pressed{
     background: url(RIGHT.png); 
+    margin-left: 1px;
     height: 1000px;
     width: 1150px;
     background-repeat:no-repeat;
@@ -233,6 +234,7 @@
 
 .custom .face.down.pressed{ 
     background: url(DOWN.png); 
+    margin-left: 1px;
     height: 1000px;
     width: 1150px;
     background-repeat:no-repeat;
