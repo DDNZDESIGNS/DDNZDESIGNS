@@ -159,9 +159,7 @@
 }
 
 .custom .stick.{
-  left: 389px !important;
-  border-bottom-style: solid;
-  border-left-style: solid;
+  left: 389px
   width: 111px;
   top: 432px
   position: absolute;
