@@ -154,15 +154,15 @@
 }
 
 .custom .sticks{    
+    left: 388px;
+    top: 430px;
     position: absolute;
     background-repeat:no-repeat;
 }
 
 .custom .stick.{
-  left: 388px;
-  top: 430px;
-  position: absolute;
-  background-repeat: no-repeat;
+    position: absolute;
+    background-repeat: no-repeat;
 }
 
 .custom .stick.pressed.left{
